@@ -4,8 +4,9 @@ I code things for a living!
 Currently working as a Frontend Team Lead at Livespins ⚡️ 
 
 Current Projects:
-- 🌽 [Stardew Valley Tracker](http://stardewvalleytracker.com)
-- 
+- 📝 [LogMo](https://logmo.app/) - Track anything with emojis
+- 🌽 [Stardew Valley Tracker](https://stardewvalleytracker.com/) - Companion Guide & Checklist for Stardew Valley
+- 👤 WhoTF [[Android]](https://play.google.com/store/apps/details?id=com.hiugo.whotf) [[iOS]](https://apps.apple.com/us/app/whotf/id6474140782) - The classic game with a twist!
 
 <!--
 **hiugo/hiugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

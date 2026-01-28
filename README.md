@@ -3,8 +3,9 @@
 I code things for a living!
 Currently working as a Frontend Team Lead at Livespins ⚡️ 
 
-My Projects:
-- 🌽 http://stardewvalleytracker.com
+Current Projects:
+- 🌽 [Stardew Valley Tracker](http://stardewvalleytracker.com)
+- 
 
 <!--
 **hiugo/hiugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
